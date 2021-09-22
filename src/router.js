@@ -2,6 +2,7 @@ import Vue from "vue";
 import Router from "vue-router";
 import Home from "@/views/home";
 import Scrims from "@/views/scrims";
+import Contact from "@/views/contact";
 import Casting from "@/views/casting";
 
 import Discord from "@/views/start/discord"
@@ -34,6 +35,12 @@ export default new Router({
             name: "scrims",
             component: Scrims
         },
+        {
+            path: "/contact",
+            name: "contact",
+            component: Contact
+        },
+
     ]
 })
 ;

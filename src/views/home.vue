@@ -64,8 +64,23 @@
           Klicke <router-link to="telegram">hier</router-link>hier, um dein Team zu registrieren.
         </span>
       </div>
-    </div>
 
+
+    </div>
+    <div class="flex flex-col gap-5 my-5">
+      <span class="text-xl text-center">
+        Wenn euch der Primebot gefällt, empfehlt ihn gerne weiter und hinterlasst im <a
+          href="https://www.google.com/url?q=https%3A%2F%2Fwww.primeleague.gg%2Fde%2Fforums%2F1418-league-of-legends%2F1469-off-topic%2F637268-primeleague-updates-fr-dein-team-per-discord-oder-telegram-aufs-handy&sa=D&sntz=1&usg=AFQjCNGRzv2qzbTb4VfP0dkHrbx6v6XZBA">Primeleague-Forenthread</a> einen
+        Kommentar.
+        <br>
+        Das freut nicht nur den Bot. 😀
+      </span>
+      <span class="text-xl text-center">
+        Bei Fragen, Anregungen oder Wünschen schreibt uns direkt bei <router-link
+          to="contact">Discord oder Telegram</router-link>.
+      </span>
+
+    </div>
   </div>
 </template>
 
