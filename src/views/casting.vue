@@ -13,3 +13,17 @@
   </div>
 
 </template>
+<script>
+export default {
+  name: 'Casting',
+  components: {},
+  props: {},
+  data() {
+    return {}
+  },
+  computed: {},
+  mounted() {
+  },
+  methods: {}
+}
+</script>
