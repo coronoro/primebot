@@ -12,9 +12,11 @@
           @select="selectedIndex = index"
           class="px-3"/>
     </div>
+    <!--
     <div>
-      S
+      Suche
     </div>
+    -->
   </div>
 </template>
 
